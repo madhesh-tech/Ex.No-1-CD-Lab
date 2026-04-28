@@ -1,6 +1,7 @@
 # Ex-1 IMPLEMENTATION-OF-SYMBOL-TABLE
 ## NAME : Madhesh I
 ## REG NO : 212224220055
+## DATE : 28/04/26
 # AIM :
  To write a C program to implement a symbol table.
 # ALGORITHM
